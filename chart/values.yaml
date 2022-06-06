@@ -1,0 +1,5 @@
+redis:
+  enabled: true
+  usePassword: false
+  cluster:
+    slaveCount: 0
